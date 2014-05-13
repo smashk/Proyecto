@@ -2,6 +2,7 @@ Proyecto
 ========
 
 Space Invaders
+
 #include <ncurses.h>
 #include <unistd.h>
 void bordes() {
